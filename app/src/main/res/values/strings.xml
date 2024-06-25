@@ -46,4 +46,6 @@
         vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
     </string>
     <string name="news_app">News App !</string>
+    <string name="Categories">Categories</string>
+    <string name="Settings">Settings</string>
 </resources>

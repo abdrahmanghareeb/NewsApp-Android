@@ -1,4 +1,4 @@
-package com.route.newsapp.UI.ui.theme
+package com.route.newsapp.Main.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
